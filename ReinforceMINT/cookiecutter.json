@@ -1,0 +1,8 @@
+{
+    "project_name": "ReinforceMINT",
+    "author_name": "Noah Farr",
+    "author_email": "work@noahfarr.com",
+    "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "project_short_description": "Template for a Reinforcement Learning Project",
+    "version": "0.1.0"
+}
